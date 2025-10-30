@@ -628,3 +628,9 @@ INSERT INTO batch (b_id, b_name, acedemic_year, start_date, end_date) VALUES
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+SET FOREIGN_KEY_CHECKS = 0;
+SET FOREIGN_KEY_CHECKS = 1;
+
+
